@@ -1,6 +1,6 @@
 # DFS Implementation
 ## one.txt
-![0cf1429059df67e02bf8ec7e191e232d.png](Solutions/_resources0cf1429059df67e02bf8ec7e191e232d.png)
+![0cf1429059df67e02bf8ec7e191e232d.png](/Solutions/_resources0cf1429059df67e02bf8ec7e191e232d.png)
 ***
 ## two.txt
 ![5098dae9acae06cf16484f1bb5b25740.png](Solutions/_resources5098dae9acae06cf16484f1bb5b25740.png)
